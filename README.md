@@ -23,6 +23,7 @@ In the future I would like too:
 
 8. Set a minimum region size (i.e. 2x2 pixels)
 9. Draw the text within the regions perfectly (instead of the odd error)
+10. Add an output image which maps the color to the number (like a legend)
 
 ## Original Image:
 ![Image of dancing](/images/dancing.jpg?raw=true)
